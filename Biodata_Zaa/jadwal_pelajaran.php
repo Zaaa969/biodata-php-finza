@@ -41,18 +41,18 @@
 
     <tr>
         <th>Senin</th>
-        <td colspan="2">POR</td>
+        <td colspan="3">POR</td>
         <td colspan="2">BNG</td>
         <td colspan="2">BJW</td>
-        <td colspan="4">PABP</td>
+        <td colspan="3">PABP</td>
     </tr>
 
     <tr>
         <th>Selasa</th>
         <td colspan="2">INF</td>
         <td colspan="2">KKA</td>
-        <td colspan="3">PGD</td>
-        <td colspan="3">IPAS</td>
+        <td colspan="4">PGD</td>
+        <td colspan="2">IPAS</td>
     </tr>
 
     <tr>
@@ -67,8 +67,8 @@
     <tr>
         <th>Kamis</th>
         <td colspan="4">PGD</td>
-        <td colspan="3">GIM</td>
-        <td colspan="3">IPAS</td>
+        <td colspan="4">GIM</td>
+        <td colspan="2">IPAS</td>
     </tr>
 
     <tr>
@@ -76,7 +76,7 @@
         <td colspan="2">BIN</td>
         <td colspan="2">SJR</td>
         <td colspan="2">MTK</td>
-        <td colspan="4">IPAS</td>
+        <td colspan="2">IPAS</td>
     </tr>
 
 </table>
@@ -88,4 +88,5 @@
 </center>
 
 </body>
+
 </html>
